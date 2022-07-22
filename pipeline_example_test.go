@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/deliveryhero/pipeline/v2"
+	"github.com/Sora233/pipeline/v2"
 )
 
 // The following example shows how you can shutdown a pipeline

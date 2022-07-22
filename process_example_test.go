@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/deliveryhero/pipeline/v2"
+	"github.com/Sora233/pipeline/v2"
 )
 
 func ExampleProcess() {

@@ -3,7 +3,7 @@ package pipeline_test
 import (
 	"fmt"
 
-	"github.com/deliveryhero/pipeline/v2"
+	"github.com/Sora233/pipeline/v2"
 )
 
 func ExampleMerge() {
